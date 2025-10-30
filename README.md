@@ -1,4 +1,4 @@
-* [ABANDONED PROJECT]
+# ABANDONED PROJECT
 
 This project is no longer maintained or under development.
 It was an experimental game project and remains here for archival and educational purposes.
